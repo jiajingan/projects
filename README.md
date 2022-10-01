@@ -4,3 +4,5 @@ This is going to be one of my folders for learning new languages or used to refr
 ### Golang
 - fibonacci calculation
 - factorial calculation
+### Java
+- OOP concepts, the concepts that I never really learned
